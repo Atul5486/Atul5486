@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Koushal</h1>
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src=["https://images.unsplash.com/photo-1562813733-b31f71025d54?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://images.unsplash.com/photo-1626968361222-291e74711449?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvZGVyfGVufDB8fDB8fHww)" alt="" />
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1626968361222-291e74711449?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvZGVyfGVufDB8fDB8fHww" alt="" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul5486&label=Profile%20views&color=0e75b6&style=flat" alt="atul5486" /> </p>
